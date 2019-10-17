@@ -3,7 +3,7 @@
 <head>
 	
 	<meta charset="utf-8">
-	<title>Distribuidora Di Donato</title>
+	<title>Di Donato Distribución</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="">
 	<meta name="author" content="">
@@ -19,11 +19,11 @@
 	<link href="css/style.css" rel="stylesheet" type="text/css" />
     
 	<!-- FONTS -->
-	<link href='http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500italic,700,500,700italic,900,900italic' rel='stylesheet' type='text/css'>
-	<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">	
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500italic,700,500,700italic,900,900italic' rel='stylesheet' type='text/css'>
+	<link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
     
 	<!-- SCRIPTS -->
-	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<!--[if IE]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     <!--[if IE]><html class="ie" lang="es"> <![endif]-->
 	
 	<script src="js/jquery.min.js" type="text/javascript"></script>
@@ -104,10 +104,7 @@
 							<ul>
 								<li class="first active scroll_btn"><a href="#home" >Inicio</a></li>
 								<li class="scroll_btn"><a href="#about" >Nosotros</a></li>
-								<li class="scroll_btn"><a href="#catalogo" >Catálogo</a></li>
 								<li class="scroll_btn"><a href="#marcas" >Marcas</a></li>
-								<li class="scroll_btn"><a href="#productos" >Productos</a></li>
-								<li class="scroll_btn"><a href="#news" >Novedades</a></li>
 								<li class="scroll_btn last"><a href="#contacts" >Contacto</a></li>
 							</ul>
 						</nav>
@@ -127,7 +124,7 @@
 						<div class="flex_caption1">
 							<p class="title1 captionDelay2 FromTop"><strong>Di</strong></p>
 							<p class="title2 captionDelay4 FromTop"><strong>Donato</strong></p>
-							<p class="title3 captionDelay6 FromTop"> Distribuidora</p>
+							<p class="title3 captionDelay6 FromTop"> Distribución</p>
 							<p class="title4 captionDelay7 FromBottom"></p>
 						</div>
 				<!--		<a class="slide_btn FromRight" href="javascript:void(0);" >Read More</a>   -->
